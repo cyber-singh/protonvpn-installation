@@ -5,11 +5,6 @@
 <h1>ProtonVPN - Implementation and Installation</h1>
 This tutorial outlines the installation and use of a vpn known as Proton VPN.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install Proton VPN](https://youtu.be/E7_CcrvsZ_A)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -53,7 +48,8 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 <p>
-<img width="835" alt="Screenshot 2023-09-21 175422" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/dddfee24-fac9-4122-8cb5-8304f2962a34">
+<img width="835" alt="Screenshot 2023-09-21 175422" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/9dd42523-82a3-4329-a86b-f99b012e81fa"
+
 </p>
 
 **_This is one way to find your current IP Address._**
