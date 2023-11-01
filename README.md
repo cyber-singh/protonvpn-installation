@@ -48,7 +48,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 <p>
-<img width="835" alt="Screenshot 2023-09-21 175422" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/9dd42523-82a3-4329-a86b-f99b012e81fa"
+<img width="835" alt="Screenshot 2023-09-21 175422" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/86569dfc-bc47-4b4b-9b80-82166603c3f2">
 
 </p>
 
