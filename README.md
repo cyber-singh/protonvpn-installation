@@ -30,16 +30,21 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <p>
 
+  **_# Creating rersource group and selecting your region_**
+  
+<img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b78cd0e3-abe4-4a6c-ac2c-c99427b2a904"></p>
+
+<br/>
+
+**_# These are the settings you can use to create your VM. Using the same region as Resource group._**
+
 <img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/f3e10aa5-2615-4bf4-8ca6-e2435ee7ffbf"></p>
 
-**_These are the settings you can use to create your VM. Use a different region._**
-
-</p>
 
 <p>
 <img width="691" alt="Screenshot 2023-09-21 174453" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fda8833-a7e9-44ef-a945-d6af0e2be6c9"></p>
 
-**_Make sure to checkmark the bottom part about licensing so you don't run into any issues._**
+**_# Make sure to checkmark the bottom part about licensing so you don't run into any issues._**
 
 <br/>
 
