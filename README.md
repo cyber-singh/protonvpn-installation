@@ -146,21 +146,32 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <br/>
 
+**_Here is the IP adress from Japan_**.
+
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/e7634fd2-5bce-4699-a0aa-1c7ae7610c16">
 
 
+<br/>
+
+**_Google something to see VPN's magical work_**.
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b4dcdf9a-c4c4-4fb7-b6c5-79b11548951b">
 
 
+<br/>
+
+**_Now hit that change server option I mentioned earlier_**.
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b29fd35f-8284-432e-8407-8c856eb68bf6">
 
+**_There you go now we are in Netherland_**
+
+<br/>
 
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/1656adaf-511a-43bd-8294-a4e9964a2e38">
 
-
+<br/>
 
 
 
