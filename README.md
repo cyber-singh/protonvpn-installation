@@ -18,12 +18,13 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <h2>Installation Steps</h2>
 
-**Step 1: Create the VM within Microsoft Azure**
-- Create a resource group called "DumbleDore" (You can name it Anything)
-- Create a Virtual Machine (VM) called "Hagrid"
-- Use Windows 10 Pro, version 22H2 and Standard_D4s_v3 - 2cpus, 16 GiB memory
-- Make sure to choose a region you don't live in while creating your Resource Group
-- Note the username (HarryPotter) and password (Remember It) you're creating for you VM Windows 10
+**Step 1: Create the Virtual Machine within Microsoft Azure**
+- Create a resource group called "DumbleDore" (You can name it Anything).
+- Create a Virtual Machine (VM) called "Hagrid".
+- Use Windows 10 Pro, version 22H2 and Standard_D4s_v3 - 2cpus, 16 GiB memory.
+- Make sure to choose a region you don't live in while creating your Resource Group.
+- Keep track of username (HarryPotter) and password (Anything) you're creating for you VM Windows 10.
+### NOTE: If you Don't know how to create VMs click [HERE](https://www.youtube.com/@cyber_singh)
 
 <br/>
 
