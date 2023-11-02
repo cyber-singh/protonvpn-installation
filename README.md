@@ -29,14 +29,15 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 <p>
-<img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/0423ef29-2e5d-4431-b8ce-d0043b1bc352"></p>
+
+<img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/f3e10aa5-2615-4bf4-8ca6-e2435ee7ffbf"></p>
 
 **_These are the settings you can use to create your VM. Use a different region._**
 
 </p>
 
 <p>
-<img width="691" alt="Screenshot 2023-09-21 174453" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/a66996b7-4e78-4773-bdfb-0ebb88cd8de1"></p>
+<img width="691" alt="Screenshot 2023-09-21 174453" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fda8833-a7e9-44ef-a945-d6af0e2be6c9"></p>
 
 **_Make sure to checkmark the bottom part about licensing so you don't run into any issues._**
 
@@ -61,13 +62,13 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 <p>
-<img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/46623bd7-a705-4bcf-8151-1817c4a1268d">
+<img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/d27dd362-08e5-484a-8348-ff57c1197e5f">
 </p>
 
 ****
 
 <p>
-<img width="778" alt="Screenshot 2023-09-21 180601" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/5caf5a59-75af-49f2-a558-24a70e7f4f2e">
+<img width="778" alt="Screenshot 2023-09-21 180601" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/18f1d65b-d3bc-4675-9ba2-eb81a7cba86c">
 </p>
 
 **_This is what RDP looks like on Windows. You'll use the username and password you created when you set up Windows in the VM, here.._**
@@ -82,7 +83,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 <p>
-<img width="797" alt="Screenshot 2023-09-21 181005" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/302718f5-3b91-44e6-9e1b-c74c239816a4">
+<img width="797" alt="Screenshot 2023-09-21 181005" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/11933a42-884b-4a23-9c61-e427a2e08f8e">
 </p>
 
 ****
@@ -96,7 +97,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 <p>
-<img width="935" alt="Screenshot 2023-09-21 181534" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/5bc59eae-deca-47fc-a9e8-d31d058d6593">
+<img width="935" alt="Screenshot 2023-09-21 181534" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/62039cde-3e18-46c4-bbc0-d2c6659c1ba9">
 </p>
 
 **_When you're installing Proton VPN, you'll need to accept all of their terms._**
@@ -111,13 +112,13 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 <p>
-<img width="500" alt="Screenshot 2023-09-21 182419" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/fff4b80f-8a12-442a-b918-9f857e2d2875">
+<img width="500" alt="Screenshot 2023-09-21 182419" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/cd8d6b0b-1378-4d92-8ea3-3f89e0b15deb">
 
 ****
 </p>
 
 <p>
-<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/DJcaston76/protonvpn-installation/assets/145403292/4bd27ebe-7c88-48e5-a457-3ad24ccae00c">
+<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/a9381358-bbd3-4c71-8fe4-d983f9131684">
 
 **_Awesome! You've succesfully connected to a VPN._**
 </p>
