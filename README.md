@@ -18,6 +18,9 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <h2>Installation Steps</h2>
 
+<br/>  
+
+
 **Step 1: Create the Virtual Machine within Microsoft Azure**
 - Create a resource group called "DumbleDore" (You can name it Anything).
 - Create a Virtual Machine (VM) called "Hagrid".
@@ -48,6 +51,9 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <br/>
 
+****
+
+
 **Step 2: Find current IP Address**
 - Take not of the Public IPv4 Address of your actual Computer @ [WhatIsMyIPAddress.com](https://whatismyipaddress.com/)
 
@@ -62,6 +68,10 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <br/>
 
+****
+</p>
+
+
 **Step 3: Log into the VM via RDP**
 - Copy the Public IP Address from the VM (Virutal Machines > "Hagrid" > copy Public IP address).
 - Then open Window Remote Connection from your Computer and paste the copied IP address and click connect.
@@ -74,7 +84,6 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 </p>
 
 
-****
 
 <p>
 <img width="778" alt="Screenshot 2023-09-21 180601" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/91c32d49-d126-476b-9dab-7117cdb77ad9">
@@ -86,7 +95,8 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 **_If you see another user in user's section click More choices and then choose to Use a different account.._**
 
-
+****
+</p>
 
 <br/>
 
@@ -123,7 +133,11 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 **_When you're installing Proton VPN, you'll need to accept all of their terms._**
 
+****
+</p>
+
 <br/>
+
 
 **Step 6: Connect to Proton VPN**
 - Log In with your account credentials.
@@ -136,7 +150,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <p>
 <img width="500" alt="Screenshot 2023-09-21 182419" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/cd8d6b0b-1378-4d92-8ea3-3f89e0b15deb">
 
-****
+
 </p>
 
 <p>
@@ -146,12 +160,14 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <br/>
 
-**_Here is the IP adress from Japan_**.
+**_Check your IP adress Now_**.
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/e7634fd2-5bce-4699-a0aa-1c7ae7610c16">
 
 
 <br/>
+
+<p>
 
 **_Google something to see VPN's magical work_**.
 
