@@ -49,7 +49,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 **Step 2: Find current IP Address**
-- Take not of the Public IPv4 Address from (WhatIsMyIPAddress.com)
+- Take not of the Public IPv4 Address of your actual Computer @ [WhatIsMyIPAddress.com](https://whatismyipaddress.com/)
 
 <br/>
 
@@ -60,9 +60,12 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 **_This is one way to find your current IP Address._**
 
+<br/>
+
 **Step 3: Log into the VM via RDP**
-- Copy the Public IP Address from the VM (Virutal Machines > "vpn-pratice" > copy Public IP address)
-- Log in, using your Windows 10 username and password
+- Copy the Public IP Address from the VM (Virutal Machines > "Hagrid" > copy Public IP address).
+- Then open Window Remote Connection from your Computer and paste the copied IP address and click connect.
+- Log in, using your VMs Windows 10 username(HarryPotter) and password(Anything)
 
 <br/>
 
@@ -70,26 +73,36 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/d27dd362-08e5-484a-8348-ff57c1197e5f">
 </p>
 
+
 ****
 
 <p>
-<img width="778" alt="Screenshot 2023-09-21 180601" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/18f1d65b-d3bc-4675-9ba2-eb81a7cba86c">
+<img width="778" alt="Screenshot 2023-09-21 180601" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/91c32d49-d126-476b-9dab-7117cdb77ad9">
 </p>
 
-**_This is what RDP looks like on Windows. You'll use the username and password you created when you set up Windows in the VM, here.._**
+****
+
+<img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fbf3e65-c939-4481-9e57-9e33e401a4d5">
+
+**_If you see another user in user's section click More choices and then choose to Use a different account.._**
 
 
 
 <br/>
 
 **Step 4: Find IP Address of the Virtual Machine**
-- Open a web broswer and search "WhatIsMyIPAddress.com"
-- If done correctly you should be given a new IP Address inside of the virtual machine
+- Open a web broswer inside your VM and check your IP adress @ [WhatIsMyIPAddress.com](https://whatismyipaddress.com/).
+- You should see an IP Address somewhere from France as we select our region France for our VM.
+
+**_NOTE: If you search anything on your VM browser it will gave you result as you are actually in France within a Local language._**
+  
 <br/>
 
 <p>
 <img width="797" alt="Screenshot 2023-09-21 181005" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/11933a42-884b-4a23-9c61-e427a2e08f8e">
 </p>
+
+<img width="797" alt="Screenshot 2023-09-21 181005" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/61484e6d-a333-4552-8e42-2a89d6da267f">
 
 ****
 
