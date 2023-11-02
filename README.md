@@ -109,13 +109,16 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 **Step 5: Install Proton VPN**
-- Create a new account within Proton VPN
+- Create a new account within Proton VPN at your actual computer @ [FREE PROTON VPN](https://protonvpn.com/free-vpn/download)
+- Now copy the URL link and paste it inside your VM.
 - Download and install Proton VPN for your apporiate OS
+
+**_Note: Inside our VM we are going to get results in French, So that's why we are creating account on actual computer and then downloading VPN inside VM._**
 
 <br/>
 
 <p>
-<img width="935" alt="Screenshot 2023-09-21 181534" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/62039cde-3e18-46c4-bbc0-d2c6659c1ba9">
+<img width="935" alt="Screenshot 2023-09-21 181534" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/36a6a204-c278-48ff-b03d-647bbb8daee1">
 </p>
 
 **_When you're installing Proton VPN, you'll need to accept all of their terms._**
