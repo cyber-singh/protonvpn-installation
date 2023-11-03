@@ -5,6 +5,32 @@
 <h1>ProtonVPN - Implementation and Installation</h1>
 In an increasingly connected world, online privacy and security are paramount. This tutorial will show you how to install and implement Proton VPN in your Azure Virtual Machine, ensuring your internet connection remains private and protected. By the end, you'll have the knowledge and tools to keep your online activities shielded from prying eyes while working within the Azure cloud.<br />
 
+<p>
+
+
+***_Uses of VPN (Virtual Private Network)_***
+
+<p>
+
+
+1. **Enhanced Security**: VPNs encrypt data, providing a secure way to transmit sensitive information over public networks.
+
+2. **Remote Access**: Employees can securely access corporate networks and resources from anywhere, fostering remote work.
+
+3. **Geo-Spoofing**: VPNs allow users to bypass geo-restrictions and access content from different regions.
+
+4. **Anonymity and Privacy**: VPNs mask the user's IP address, enhancing online privacy and anonymity.
+
+5. **Cost Savings**: Corporations can reduce costs by using VPNs to establish secure connections over the internet instead of dedicated lines.
+
+6. **Data Protection**: VPNs safeguard sensitive corporate data, ensuring it remains confidential during transmission.
+
+****
+
+</p>
+
+<br/>
+
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -238,27 +264,7 @@ In an increasingly connected world, online privacy and security are paramount. T
 
 ****
 
-<p>
 
-***_Uses of VPN (Virtual Private Network)_***
-
-<p>
-
-
-1. **Enhanced Security**: VPNs encrypt data, providing a secure way to transmit sensitive information over public networks.
-
-2. **Remote Access**: Employees can securely access corporate networks and resources from anywhere, fostering remote work.
-
-3. **Geo-Spoofing**: VPNs allow users to bypass geo-restrictions and access content from different regions.
-
-4. **Anonymity and Privacy**: VPNs mask the user's IP address, enhancing online privacy and anonymity.
-
-5. **Cost Savings**: Corporations can reduce costs by using VPNs to establish secure connections over the internet instead of dedicated lines.
-
-6. **Data Protection**: VPNs safeguard sensitive corporate data, ensuring it remains confidential during transmission.
-
-
-</p>
 
 </p>
 
