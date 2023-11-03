@@ -26,10 +26,10 @@ In an increasingly connected world, online privacy and security are paramount. T
 6. **Data Protection**: VPNs safeguard sensitive corporate data, ensuring it remains confidential during transmission.
 
 ****
+<h2>Video Demonstration</h2>
 
-</p>
+ - ### [YouTube: ProtonVPN - Implementation and Installation](https://www.youtube.com/@cyber_singh)
 
-<br/>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -59,13 +59,13 @@ In an increasingly connected world, online privacy and security are paramount. T
 
 <p>
 
-  **_Creating rersource group and selecting your region_**
+  -  **_Creating rersource group and selecting your region_**
   
 <img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b78cd0e3-abe4-4a6c-ac2c-c99427b2a904"></p>
 
 <br/>
 
-**_These are the settings you can use to create your VM. Using the same region as Resource group._**
+ - **_These are the settings you can use to create your VM. Using the same region as Resource group._**
 
 <img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/f3e10aa5-2615-4bf4-8ca6-e2435ee7ffbf"></p>
 
@@ -73,7 +73,7 @@ In an increasingly connected world, online privacy and security are paramount. T
 <p>
 <img width="691" alt="Screenshot 2023-09-21 174453" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fda8833-a7e9-44ef-a945-d6af0e2be6c9"></p>
 
-**_Make sure to checkmark the bottom part about licensing so you don't run into any issues._**
+ - **_Make sure to checkmark the bottom part about licensing so you don't run into any issues._**
 
 <br/>
 
@@ -96,7 +96,7 @@ In an increasingly connected world, online privacy and security are paramount. T
 
 </p>
 
-**_This is one way to find your current IP Address._**
+ - **_This is one way to find your current IP Address._**
 
 <br/>
 
@@ -128,7 +128,7 @@ In an increasingly connected world, online privacy and security are paramount. T
 
 <p>
 
-**_If you see another user in user's section click More choices and then choose to Use a different account.._**
+ - **_If you see another user in user's section click More choices and then choose to Use a different account.._**
 
 ****
 </p>
@@ -166,7 +166,7 @@ In an increasingly connected world, online privacy and security are paramount. T
 <img width="935" alt="Screenshot 2023-09-21 181534" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/36a6a204-c278-48ff-b03d-647bbb8daee1">
 </p>
 
-**_When you're installing Proton VPN, you'll need to accept all of their terms._**
+ - **_When you're installing Proton VPN, you'll need to accept all of their terms._**
 
 ****
 </p>
@@ -194,14 +194,14 @@ In an increasingly connected world, online privacy and security are paramount. T
 </p>
 
 
-**_Voila! You're now connected to Japan's Server_** (Try to play with change server option shown in pic. above)
+ - **_Voila! You're now connected to Japan's Server_** (Try to play with change server option shown in pic. above)
 
 <br/>
 
 <p>
 
 
-**_Now Check your IP adress to confirm the connection_**
+ - **_Now Check your IP adress to confirm the connection_**
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/e7634fd2-5bce-4699-a0aa-1c7ae7610c16">
 
@@ -214,7 +214,7 @@ In an increasingly connected world, online privacy and security are paramount. T
 
 <p>
 
-**_Google something to see VPN's magical work_**.
+ - **_Google something to see VPN's magical work_**.
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b4dcdf9a-c4c4-4fb7-b6c5-79b11548951b">
 
@@ -230,7 +230,7 @@ In an increasingly connected world, online privacy and security are paramount. T
 ****
 
   
-**_Now hit that change server option I mentioned earlier_**.
+ - **_Now hit that change server option I mentioned earlier_**.
 
 **_NOTE: You already setup your Proton VPN and Established your connection these step are for further exploration_**
 
@@ -242,7 +242,7 @@ In an increasingly connected world, online privacy and security are paramount. T
 <p>
 
   
-**_There you go now you're in Netherland (country could be different for you)_**
+ - **_There you go now you're in Netherland (country could be different for you)_**
 
 <br/>
 
@@ -252,7 +252,7 @@ In an increasingly connected world, online privacy and security are paramount. T
 
 <p>
 
-**_Check your IP address once again for confirmation_**
+ - **_Check your IP address once again for confirmation_**
 
   
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b29fd35f-8284-432e-8407-8c856eb68bf6">
@@ -270,9 +270,9 @@ In an increasingly connected world, online privacy and security are paramount. T
 <p>
 
 
-**You got any quention? Ping me on [LinkedIn](https://www.linkedin.com/in/cybersingh)**
+ - **You got any quention? Ping me on [LinkedIn](https://www.linkedin.com/in/cybersingh)**
   
-**You still confuse about VPNs see this [Video](https://www.youtube.com/@cyber_singh)**
+ - **You still confuse about VPNs see this [Video](https://www.youtube.com/@cyber_singh)**
 
 
 </p>
