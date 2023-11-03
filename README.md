@@ -27,19 +27,19 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 - Use Windows 10 Pro, version 22H2 and Standard_D4s_v3 - 2cpus, 16 GiB memory.
 - Make sure to choose a region you don't live in while creating your Resource Group.
 - Keep track of username (HarryPotter) and password (Anything) you're creating for you VM Windows 10.
-### NOTE: If you Don't know how to create VMs click [HERE](https://www.youtube.com/@cyber_singh)
+### NOTE: If you Don't know how to create Virtual Machine click [HERE](https://www.youtube.com/@cyber_singh)
 
 <br/>
 
 <p>
 
-  **_# Creating rersource group and selecting your region_**
+  **_Creating rersource group and selecting your region_**
   
 <img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b78cd0e3-abe4-4a6c-ac2c-c99427b2a904"></p>
 
 <br/>
 
-**_# These are the settings you can use to create your VM. Using the same region as Resource group._**
+**_These are the settings you can use to create your VM. Using the same region as Resource group._**
 
 <img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/f3e10aa5-2615-4bf4-8ca6-e2435ee7ffbf"></p>
 
@@ -47,7 +47,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <p>
 <img width="691" alt="Screenshot 2023-09-21 174453" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fda8833-a7e9-44ef-a945-d6af0e2be6c9"></p>
 
-**_# Make sure to checkmark the bottom part about licensing so you don't run into any issues._**
+**_Make sure to checkmark the bottom part about licensing so you don't run into any issues._**
 
 <br/>
 
@@ -80,7 +80,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <br/>
 
 
-**Step 3: Log into the VM via RDP**
+**Step 3: Log into the VM via Window Remote Connection**
 - Copy the Public IP Address from the VM (Virutal Machines > "Hagrid" > copy Public IP address).
 - Then open Window Remote Connection from your Computer and paste the copied IP address and click connect.
 - Log in, using your VMs Windows 10 username(HarryPotter) and password(Anything)
@@ -175,7 +175,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <p>
 
 
-**_# Check your IP adress Now to confirm we are in Japan_**
+**_Now Check your IP adress to confirm the connection_**
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/e7634fd2-5bce-4699-a0aa-1c7ae7610c16">
 
@@ -188,7 +188,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <p>
 
-**_# Google something to see VPN's magical work_**.
+**_Google something to see VPN's magical work_**.
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b4dcdf9a-c4c4-4fb7-b6c5-79b11548951b">
 
@@ -204,7 +204,9 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 ****
 
   
-**_# Now hit that change server option I mentioned earlier_**.
+**_Now hit that change server option I mentioned earlier_**.
+
+**_NOTE: You already setup your Proton VPN and Established your connection these step are for further exploration_**
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/1656adaf-511a-43bd-8294-a4e9964a2e38">
 
@@ -214,7 +216,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <p>
 
   
-**_# There you go now you're in Netherland (country could be different for you)_**
+**_There you go now you're in Netherland (country could be different for you)_**
 
 <br/>
 
@@ -261,17 +263,21 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 </p>
 
 ****
-<br/>
+
+
+<h1>WOW! We make to the End, YET!</h1>
+
 <p>
 
-**WOW! We make to the End, YET!**
-<p>
-  You got any quention? Ping me on [LinkedIn](https://www.linkedin.com/in/cybersingh)
+
+**You got any quention? Ping me on [LinkedIn](https://www.linkedin.com/in/cybersingh)**
+  
+**You still confuse about VPNs see this [Video](https://www.youtube.com/@cyber_singh)**
+
 
 </p>
 
-</p>
-
+****
 
 
 
