@@ -3,7 +3,7 @@
 </p>
 
 <h1>ProtonVPN - Implementation and Installation</h1>
-This tutorial outlines the installation and use of a vpn known as Proton VPN.<br />
+In an increasingly connected world, online privacy and security are paramount. This tutorial will show you how to install and implement Proton VPN in your Azure Virtual Machine, ensuring your internet connection remains private and protected. By the end, you'll have the knowledge and tools to keep your online activities shielded from prying eyes while working within the Azure cloud.<br />
 
 <h2>Environments and Technologies Used</h2>
 
