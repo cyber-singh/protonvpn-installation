@@ -201,11 +201,12 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <p>
 
+****
+
   
-**_Now hit that change server option I mentioned earlier_**.
+**_# Now hit that change server option I mentioned earlier_**.
 
-<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b29fd35f-8284-432e-8407-8c856eb68bf6">
-
+<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/1656adaf-511a-43bd-8294-a4e9964a2e38">
 
 </p>
 
@@ -213,7 +214,7 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <p>
 
   
-**_There you go now we are in Netherland_**
+**_# There you go now you're in Netherland (country could be different for you)_**
 
 <br/>
 
@@ -223,8 +224,10 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 <p>
 
+**_Check your IP address once again for confirmation_**
+
   
-<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/1656adaf-511a-43bd-8294-a4e9964a2e38">
+<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b29fd35f-8284-432e-8407-8c856eb68bf6">
 
 </p>
 
@@ -233,6 +236,41 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 ****
 
+<p>
+
+***_Uses of VPN (Virtual Private Network)_***
+
+<p>
+
+
+1. **Enhanced Security**: VPNs encrypt data, providing a secure way to transmit sensitive information over public networks.
+
+2. **Remote Access**: Employees can securely access corporate networks and resources from anywhere, fostering remote work.
+
+3. **Geo-Spoofing**: VPNs allow users to bypass geo-restrictions and access content from different regions.
+
+4. **Anonymity and Privacy**: VPNs mask the user's IP address, enhancing online privacy and anonymity.
+
+5. **Cost Savings**: Corporations can reduce costs by using VPNs to establish secure connections over the internet instead of dedicated lines.
+
+6. **Data Protection**: VPNs safeguard sensitive corporate data, ensuring it remains confidential during transmission.
+
+
+</p>
+
+</p>
+
+****
+<br/>
+<p>
+
+**WOW! We make to the End, YET!**
+<p>
+  You got any quention? Ping me on [LinkedIn](https://www.linkedin.com/in/cybersingh)
+
+</p>
+
+</p>
 
 
 
