@@ -265,12 +265,6 @@ In an increasingly connected world, online privacy and security are paramount. T
 ****
 
 
-
-</p>
-
-****
-
-
 <h1>WOW! We make to the End, YET!</h1>
 
 <p>
