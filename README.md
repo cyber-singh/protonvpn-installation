@@ -53,8 +53,14 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 ****
 
+<p></p>
+
+<br/>
+
 
 **Step 2: Find current IP Address**
+
+
 - Take not of the Public IPv4 Address of your actual Computer @ [WhatIsMyIPAddress.com](https://whatismyipaddress.com/)
 
 <br/>
@@ -70,6 +76,8 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 
 ****
 </p>
+
+<br/>
 
 
 **Step 3: Log into the VM via RDP**
@@ -89,9 +97,10 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <img width="778" alt="Screenshot 2023-09-21 180601" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/91c32d49-d126-476b-9dab-7117cdb77ad9">
 </p>
 
-****
 
 <img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fbf3e65-c939-4481-9e57-9e33e401a4d5">
+
+<p>
 
 **_If you see another user in user's section click More choices and then choose to Use a different account.._**
 
@@ -156,39 +165,73 @@ This tutorial outlines the installation and use of a vpn known as Proton VPN.<br
 <p>
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/a9381358-bbd3-4c71-8fe4-d983f9131684">
 
-**_Voila! You're now connected to Japan's Server_** (try to play with with change server option as shown in pic. above)
+</p>
 
-<br/>
 
-**_Check your IP adress Now_**.
-
-<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/e7634fd2-5bce-4699-a0aa-1c7ae7610c16">
-
+**_Voila! You're now connected to Japan's Server_** (Try to play with change server option shown in pic. above)
 
 <br/>
 
 <p>
 
-**_Google something to see VPN's magical work_**.
+
+**_# Check your IP adress Now to confirm we are in Japan_**
+
+<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/e7634fd2-5bce-4699-a0aa-1c7ae7610c16">
+
+</p>
+
+
+
+<br/>
+
+
+<p>
+
+**_# Google something to see VPN's magical work_**.
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b4dcdf9a-c4c4-4fb7-b6c5-79b11548951b">
 
 
+</p>
+
+
 <br/>
 
+
+<p>
+
+  
 **_Now hit that change server option I mentioned earlier_**.
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b29fd35f-8284-432e-8407-8c856eb68bf6">
 
+
+</p>
+
+
+<p>
+
+  
 **_There you go now we are in Netherland_**
 
 <br/>
 
+</p>
 
+
+
+<p>
+
+  
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/1656adaf-511a-43bd-8294-a4e9964a2e38">
+
+</p>
+
 
 <br/>
 
+****
 
 
 
