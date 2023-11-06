@@ -243,7 +243,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
   
  - **_Now hit that change server option I mentioned earlier_**.
 
-**_NOTE: You already setup your Proton VPN and Established your connection these step are for further exploration_**
+**_NOTE: You already setup your Proton VPN and Established your connection, these step are for further exploration_**
 
 <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/1656adaf-511a-43bd-8294-a4e9964a2e38">
 
