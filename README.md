@@ -297,7 +297,7 @@ Online privacy and security are essential in today's interconnected world. By ma
 
 ****
 
-<h3>WOW! We make to the End, YET!</h3>
+<h3>WOW! You make  it to the End, YET!</h3>
 
 <p>
 
