@@ -45,6 +45,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 
 **A Microsoft Azure account:** Before you proceed, make sure you have an active Microsoft Azure account. If you don't have one, you can sign up at **[AZURE PORTAL](https://azure.microsoft.com/).**
 
+</br>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -52,15 +53,16 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
  - **Remote Desktop**
  - **Proton VPN**
 
+</br>
+
 <h2>Operating Systems Used </h2>
 
 - **Windows 10 (21H2)**
-  
+
+****
+</br>
 
 <h2>Installation Steps</h2>
-
-<br/>  
-
 
 <h3>Step 1: Create the Virtual Machine within Microsoft Azure</h3>  
 
@@ -78,18 +80,18 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 <p>
 
   -  **_Establishing a resource group and specifying your preferred region_**
-  
-<img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b78cd0e3-abe4-4a6c-ac2c-c99427b2a904"></p>
+
+     <img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b78cd0e3-abe4-4a6c-ac2c-c99427b2a904"></p>
 
 </br>
 
  - **_Here are the recommended settings for creating your VM. Ensure to choose the same region as your resource group.._**
 
-<img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/f3e10aa5-2615-4bf4-8ca6-e2435ee7ffbf"></p>  
+   <img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/f3e10aa5-2615-4bf4-8ca6-e2435ee7ffbf"></p>
+   
 
-
-<img width="691" alt="Screenshot 2023-09-21 174453" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fda8833-a7e9-44ef-a945-d6af0e2be6c9"></p>
-
+   <img width="691" alt="Screenshot 2023-09-21 174453" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fda8833-a7e9-44ef-a945-d6af0e2be6c9"></p>
+   
  - **_Ensure that you tick the checkbox at the bottom related to licensing to avoid encountering any complications.._**
 </p>
 
@@ -114,56 +116,58 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 <p>
  <h3>Step 3: Log into the VM via Window Remote Connection</h3>  
 
-- **_Copy the Public IP Address from the VM (Virutal Machines > "Hagrid" > copy Public IP address)._**
-- **_Then open Window Remote Connection from your Computer and paste the copied IP address and click Connect._**
-- **_Log in, using your VMs Windows 10 Username(HarryPotter) and password(Anything)._**
-
+- Copy the Public **IP Address** from the VM (Virutal Machines > **"Hagrid"** > copy Public IP address).
+- Then open **Window Remote Connection** from your Computer and paste the copied IP address and click **Connect**.
+- Log in, using your VMs Windows 10 **Username(HarryPotter)** and **password(Anything)**.
+  </p>
+  
 <br/>
 
 <p>
-<img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/d27dd362-08e5-484a-8348-ff57c1197e5f">
-</p>
-
-
+ <img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/d27dd362-08e5-484a-8348-ff57c1197e5f">  
+ </p>
 
 <p>
-<img width="778" alt="Screenshot 2023-09-21 180601" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/91c32d49-d126-476b-9dab-7117cdb77ad9">
-</p>
-
-
-<img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fbf3e65-c939-4481-9e57-9e33e401a4d5">
+ <img width="778" alt="Screenshot 2023-09-21 180601" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/91c32d49-d126-476b-9dab-7117cdb77ad9">  
+ </p>
 
 <p>
+ <img width="835" alt="Screenshot 2023-09-21 180022" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fbf3e65-c939-4481-9e57-9e33e401a4d5">  
+ </p>
+ 
 
- - **_If you see another user in user's section click More choices and then choose to Use a different account.._**
+- **_If you see another user in user's section click More choices and then choose to Use a different account.._**
 
 ****
-</p>
 
 <br/>
 
-**Step 4: Find IP Address of the Virtual Machine**
-- Open a web broswer inside your VM and check your IP adress @ [WhatIsMyIPAddress.com](https://whatismyipaddress.com/).
-- You should see an IP Address somewhere from France as we select our region France for our VM.
+<h3>Step 4: Find IP Address of the Virtual Machine</h3>  
+
+- Open a web broswer inside your VM and check your **IP adress** @ **[WhatIsMyIPAddress.com](https://whatismyipaddress.com/)**
+- You should see an IP Address somewhere from **France** as we select our region France for our VM.
 
 **_NOTE: If you search anything on your VM browser it will gave you result as you are actually in France within a Local language._**
   
 <br/>
 
 <p>
-<img width="797" alt="Screenshot 2023-09-21 181005" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/11933a42-884b-4a23-9c61-e427a2e08f8e">
-</p>
+ <img width="797" alt="Screenshot 2023-09-21 181005" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/11933a42-884b-4a23-9c61-e427a2e08f8e">
+ </p>
 
-<img width="797" alt="Screenshot 2023-09-21 181005" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/61484e6d-a333-4552-8e42-2a89d6da267f">
-
+<p>
+  <img width="797" alt="Screenshot 2023-09-21 181005" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/61484e6d-a333-4552-8e42-2a89d6da267f">  
+  </p>
+  
 ****
 
 <br/>
 
-**Step 5: Install Proton VPN**
-- Create a new account within Proton VPN at your actual computer @ [FREE PROTON VPN](https://protonvpn.com/free-vpn/download)
-- Now copy the URL link and paste it inside your VM.
-- Download and install Proton VPN for Windows inside your VM.
+<h3>Step 5: Install Proton VPN</h3>  
+
+- Create a new account within **Proton VPN** at your actual computer @ **[FREE PROTON VPN](https://protonvpn.com/free-vpn/download)**
+- Now copy the URL link and paste it inside your **VM (Virtual Machine)**.
+- **Download** and **install** Proton VPN for Windows inside your VM.
 
 **_Note: Inside your VM you are going to get results in French, So that's why you are creating account on actual computer and then downloading VPN inside VM._**
 
@@ -176,29 +180,25 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
  - **_When you're installing Proton VPN, you'll need to accept all of their terms._**
 
 ****
-</p>
 
 <br/>
 
+<h3>Step 6: Connect to Proton VPN</h3>  
 
-**Step 6: Connect to Proton VPN**
-- Log In with your account credentials.
-- Once inside of Proton VPN make sure to click "Quick Connect" or check under for "free connections".
-- After successful connection you should have another new IP address assigned.
-- Again check your IP address @ [WhatIsMyIPAddress.com](https://whatismyipaddress.com/).
+- Log In with your **Account Credentials**.
+- Once inside of Proton VPN make sure to click **"Quick Connect"** or check under for **"free connections"**.
+- After successful connection you should have another new **IP address** assigned.
+- Again check your IP address @ **[WhatIsMyIPAddress.com](https://whatismyipaddress.com/)**.
 
 <br/>
 
 <p>
-<img width="500" alt="Screenshot 2023-09-21 182419" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/cd8d6b0b-1378-4d92-8ea3-3f89e0b15deb">
-
-
-</p>
+ <img width="500" alt="Screenshot 2023-09-21 182419" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/cd8d6b0b-1378-4d92-8ea3-3f89e0b15deb">
+ </p>
 
 <p>
-<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/a9381358-bbd3-4c71-8fe4-d983f9131684">
-
-</p>
+ <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/a9381358-bbd3-4c71-8fe4-d983f9131684">
+ </p>
 
 
  - **_Voila! You're now connected to Japan's Server_** (Try to play with change server option shown in pic. above)
@@ -207,25 +207,19 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 
 <p>
 
-
  - **_Now Check your IP adress to confirm the connection_**
 
-<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/e7634fd2-5bce-4699-a0aa-1c7ae7610c16">
+   <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/e7634fd2-5bce-4699-a0aa-1c7ae7610c16">
 
 </p>
 
-
-
 <br/>
-
 
 <p>
 
  - **_Google something to see VPN's magical work_**.
 
-<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b4dcdf9a-c4c4-4fb7-b6c5-79b11548951b">
-
-
+   <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b4dcdf9a-c4c4-4fb7-b6c5-79b11548951b">
 </p>
 
 
@@ -236,53 +230,45 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 
 ****
 
-  
+**_NOTE: You already setup your Proton VPN and Established your connection, these step are for further exploration_** 
+
+</br>
+
  - **_Now hit that change server option I mentioned earlier_**.
 
-**_NOTE: You already setup your Proton VPN and Established your connection, these step are for further exploration_**
-
-<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/1656adaf-511a-43bd-8294-a4e9964a2e38">
-
-</p>
-
-
-<p>
-
-  
+   <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/1656adaf-511a-43bd-8294-a4e9964a2e38">
+ 
  - **_There you go now you're in Netherland (country could be different for you)_**
-
+ </p>
+ 
 <br/>
 
-</p>
-
-
-
 <p>
-
+ 
  - **_Check your IP address once again for confirmation_**
-
   
-<img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b29fd35f-8284-432e-8407-8c856eb68bf6">
-
-</p>
-
+   <img width="500" alt="Screenshot 2023-09-21 182640" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b29fd35f-8284-432e-8407-8c856eb68bf6">
+   </p>
 
 <br/>
 
 ****
-<p>
 
+<p>
+ 
  - **Conclusion: Safeguarding Your Online Privacy with ProtonVPN**
 
-In this tutorial, you've embarked on a journey to enhance your online privacy and security by implementing ProtonVPN on your Azure Virtual Machine. As our world becomes increasingly connected, the need for robust privacy measures grows more critical by the day. Here, we've explored why ProtonVPN is an excellent choice, how to set it up, and the benefits it offers.
+   In this tutorial, you've embarked on a journey to enhance your online privacy and security by implementing ProtonVPN on your Azure Virtual Machine. As our world becomes increasingly connected, the 
+   need for robust privacy measures grows more critical by the day. Here, we've explored why ProtonVPN is an excellent choice, how to set it up, and the benefits it offers.
 </p>
-<br>
+
+</br>
 
 <p>
  
  - **_The Significance:_**
 
-Online privacy and security are essential in today's interconnected world. By mastering ProtonVPN implementation within an Azure environment, you've gained a valuable skill that allows you to:
+   Online privacy and security are essential in today's interconnected world. By mastering ProtonVPN implementation within an Azure environment, you've gained a valuable skill that allows you to:
 
  - Safeguard sensitive data during transmission.
  - Protect your online activities from prying eyes.
