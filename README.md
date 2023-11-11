@@ -2,21 +2,22 @@
 <img src="https://i.pcmag.com/imagery/reviews/066pfhdQmzHcmyEMaZtToWq-103.fit_scale.size_1028x578.v1691430001.png" alt="ProtonVPN logo"/>
 </p>
 
+<p>
 <h2>ProtonVPN - Implementation and Installation: Safeguarding Your Online Privacy in Azure</h2>
 
 In an increasingly connected world, safeguarding your online privacy and security are paramount.Whether you're a business professional, remote worker, or simply a privacy-conscious individual, this tutorial will walk you through the process of installing and implementing ProtonVPN on your Azure Virtual Machine. By the end, you'll have the knowledge and tools needed to ensure your internet connection remains private and protected while working within the Azure cloud.
-<br />
+</p>
 
+****
+
+<p>
 <h2>Why ProtonVPN?</h2>
 
-ProtonVPN is a trusted choice for many, offering robust encryption and a host of features designed to keep your online activities shielded from prying eyes. From enhanced security to seamless remote access and the ability to bypass geo-restrictions, ProtonVPN empowers you to take control of your online privacy.
+ProtonVPN is a trusted choice for many, offering robust encryption and a host of features designed to keep your online activities shielded from prying eyes. From enhanced security to seamless remote access and the ability to bypass geo-restrictions, ProtonVPN empowers you to take control of your online privacy.  
 
-<p>
+<br>
 
-
-***_Uses of VPN (Virtual Private Network)_***
-
-<p>
+***_Uses of VPN (Virtual Private Network)_***  
 
 
 1. **Enhanced Security**: VPNs encrypt data, providing a secure way to transmit sensitive information over public networks.
@@ -30,8 +31,10 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 5. **Cost Savings**: Corporations can reduce costs by using VPNs to establish secure connections over the internet instead of dedicated lines.
 
 6. **Data Protection**: VPNs safeguard sensitive corporate data, ensuring it remains confidential during transmission.
+</p>
 
 ****
+<p>
 <h2>Video Demonstration</h2>
 
  - ### [YouTube: ProtonVPN - Implementation and Installation](https://www.youtube.com/@cyber_singh)
@@ -39,7 +42,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 
 <h2>Prerequisites:</h2>
 
-**A Microsoft Azure account:** Before you proceed, make sure you have an active Microsoft Azure account. If you don't have one, you can sign up at [Azure Portal](https://azure.microsoft.com/).
+**A Microsoft Azure account:** Before you proceed, make sure you have an active Microsoft Azure account. If you don't have one, you can sign up at **[AZURE PORTAL](https://azure.microsoft.com/).**
 
 
 <h2>Environments and Technologies Used</h2>
@@ -58,69 +61,61 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 <br/>  
 
 
-**Step 1: Create the Virtual Machine within Microsoft Azure**
-- Create a resource group called "DumbleDore" (You can name it Anything).
-- Create a Virtual Machine (VM) called "Hagrid".
-- Use Windows 10 Pro, version 22H2 and Standard_D4s_v3 - 2cpus, 16 GiB memory.
-- Make sure to choose a region you don't live in while creating your Resource Group.
-- Keep track of username (HarryPotter) and password (Anything) you're creating for you VM Windows 10.
-### NOTE: If you Don't know how to create Virtual Machine click [HERE](https://www.youtube.com/@cyber_singh)
+<h3>Step 1: Create the Virtual Machine within Microsoft Azure</h3>  
 
-<br/>
+- Create a resource group called **"DumbleDore"** (You can name it Anything).
+- Create a Virtual Machine (VM) called **"Hagrid"**.
+- Use **Windows 10 Pro**, version 22H2 and Standard_D4s_v3 - 2cpus, 16 GiB memory.
+- Make sure to choose a **Region** you don't live in while creating your **Resource Group**.
+- Keep track of **Username (HarryPotter)** and **Password (Anything)** you're creating for you VM Windows 10.
+  
+### NOTE: If you Don't know how to create Virtual Machine click [HERE](https://www.youtube.com/@cyber_singh)
+</p>
+
+</br>
 
 <p>
 
-  -  **_Creating rersource group and selecting your region_**
+  -  **_Establishing a resource group and specifying your preferred region_**
   
 <img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/b78cd0e3-abe4-4a6c-ac2c-c99427b2a904"></p>
 
-<br/>
+</br>
 
- - **_These are the settings you can use to create your VM. Using the same region as Resource group._**
+ - **_Here are the recommended settings for creating your VM. Ensure to choose the same region as your resource group.._**
 
-<img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/f3e10aa5-2615-4bf4-8ca6-e2435ee7ffbf"></p>
+<img width="812" alt="Screenshot 2023-09-21 174042" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/f3e10aa5-2615-4bf4-8ca6-e2435ee7ffbf"></p>  
 
 
-<p>
 <img width="691" alt="Screenshot 2023-09-21 174453" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/5fda8833-a7e9-44ef-a945-d6af0e2be6c9"></p>
 
- - **_Make sure to checkmark the bottom part about licensing so you don't run into any issues._**
-
-<br/>
+ - **_Ensure that you tick the checkbox at the bottom related to licensing to avoid encountering any complications.._**
+</p>
 
 ****
-
-<p></p>
-
-<br/>
-
-
-**Step 2: Find current IP Address**
-
-
-- Take not of the Public IPv4 Address of your actual Computer @ [WhatIsMyIPAddress.com](https://whatismyipaddress.com/)
-
-<br/>
 
 <p>
-<img width="835" alt="Screenshot 2023-09-21 175422" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/86569dfc-bc47-4b4b-9b80-82166603c3f2">
 
-</p>
+<h3>Step 2: Find current IP Address</h3>  
 
- - **_This is one way to find your current IP Address._**
+</br>
 
-<br/>
+- **_Take not of the Public IPv4 Address of your actual Computer @ [WhatIsMyIPAddress.com](https://whatismyipaddress.com/)_**
+
+  <img width="835" alt="Screenshot 2023-09-21 175422" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/86569dfc-bc47-4b4b-9b80-82166603c3f2">  
+  
+- **_This is one way to find your current IP Address._**
+
+  </p>
 
 ****
-</p>
 
-<br/>
+<p>
+ <h3>Step 3: Log into the VM via Window Remote Connection</h3>  
 
-
-**Step 3: Log into the VM via Window Remote Connection**
-- Copy the Public IP Address from the VM (Virutal Machines > "Hagrid" > copy Public IP address).
-- Then open Window Remote Connection from your Computer and paste the copied IP address and click connect.
-- Log in, using your VMs Windows 10 username(HarryPotter) and password(Anything)
+- **_Copy the Public IP Address from the VM (Virutal Machines > "Hagrid" > copy Public IP address)._**
+- **_Then open Window Remote Connection from your Computer and paste the copied IP address and click Connect._**
+- **_Log in, using your VMs Windows 10 Username(HarryPotter) and password(Anything)._**
 
 <br/>
 
