@@ -70,7 +70,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 - Create a Virtual Machine (VM) called **"Hagrid"**.
 - Use **Windows 10 Pro**, version 22H2 and Standard_D4s_v3 - 2cpus, 16 GiB memory.
 - Make sure to choose a **Region** you don't live in while creating your **Resource Group**.
-- Keep track of **Username (HarryPotter)** and **Password (Anything)** you're creating for you VM Windows 10.
+- Keep track of **Username (HarryPotter)** and **Password (Anything)** you're creating for your VM Windows 10.
   
 ### NOTE: If you Don't know how to create Virtual Machine click [HERE](https://www.youtube.com/@cyber_singh)
 </p>
