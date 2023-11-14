@@ -103,7 +103,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 
 </br>
 
-- **_Take not of the Public IPv4 Address of your actual Computer @ [WhatIsMyIPAddress.com](https://whatismyipaddress.com/)_**
+- **_Take not of the Public IPv4 Address of your actual Computer @ [Wwhatismyipaddress.com](https://whatismyipaddress.com/)_**
 
   <img width="835" alt="Screenshot 2023-09-21 175422" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/86569dfc-bc47-4b4b-9b80-82166603c3f2">  
   
@@ -144,7 +144,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 
 <h3>Step 4: Find IP Address of the Virtual Machine</h3>  
 
-- Open a web broswer inside your VM and check your **IP adress** @ **[WhatIsMyIPAddress.com](https://whatismyipaddress.com/)**
+- Open a web broswer inside your VM and check your **IP adress** @ **[whatismyipaddress.com](https://whatismyipaddress.com/)**
 - You should see an IP Address somewhere from **France** as we select our region France for our VM.
 
 **_NOTE: If you search anything on your VM browser it will gave you result as you are actually in France within a Local language._**
@@ -188,7 +188,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 - Log In with your **Account Credentials**.
 - Once inside of Proton VPN make sure to click **"Quick Connect"** or check under for **"free connections"**.
 - After successful connection you should have another new **IP address** assigned.
-- Again check your IP address @ **[WhatIsMyIPAddress.com](https://whatismyipaddress.com/)**.
+- Again check your IP address @ **[whatismyipaddress.com](https://whatismyipaddress.com/)**.
 
 <br/>
 
