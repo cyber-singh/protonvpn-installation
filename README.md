@@ -103,7 +103,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 
 </br>
 
-- **_Take not of the Public IPv4 Address of your actual Computer @ [Wwhatismyipaddress.com](https://whatismyipaddress.com/)_**
+- **_Take not of the Public IPv4 Address of your actual Computer @ [whatismyipaddress.com](https://whatismyipaddress.com/)_**
 
   <img width="835" alt="Screenshot 2023-09-21 175422" src="https://github.com/cyber-singh/protonvpn-installation/assets/149118027/86569dfc-bc47-4b4b-9b80-82166603c3f2">  
   
