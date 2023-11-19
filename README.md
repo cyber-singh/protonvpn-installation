@@ -34,12 +34,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 </p>
 
 ****
-<p>
-<h2>Video Demonstration</h2>
 
- - ### [YouTube: ProtonVPN - Implementation and Installation](https://www.youtube.com/@cyber_singh)
-
-</br>
 
 <h2>Prerequisites:</h2>
 
@@ -72,7 +67,6 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 - Make sure to choose a **Region** you don't live in while creating your **Resource Group**.
 - Keep track of **Username (HarryPotter)** and **Password (Anything)** you're creating for your VM Windows 10.
   
-### NOTE: If you Don't know how to create Virtual Machine click [HERE](https://www.youtube.com/@cyber_singh)
 </p>
 
 </br>
@@ -286,10 +280,7 @@ ProtonVPN is a trusted choice for many, offering robust encryption and a host of
 
  - **You got any quention? Ping me on [LinkedIn](https://www.linkedin.com/in/cybersingh)**
   
- - **You still confuse about VPNs see this [Video](https://www.youtube.com/@cyber_singh)**
-
-
-</p>
+ </p>
 
 ****
 
